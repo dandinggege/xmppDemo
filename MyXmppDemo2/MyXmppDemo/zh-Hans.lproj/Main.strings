@@ -1,0 +1,33 @@
+
+/* Class = "UITextField"; placeholder = "在此输入__域"; ObjectID = "01e-Oh-GXK"; */
+"01e-Oh-GXK.placeholder" = "在此输入__域";
+
+/* Class = "UIButton"; normalTitle = "登陆"; ObjectID = "6pY-n3-Pze"; */
+"6pY-n3-Pze.normalTitle" = "登陆";
+
+/* Class = "UILabel"; text = "状态："; ObjectID = "7ZR-Es-0vS"; */
+"7ZR-Es-0vS.text" = "状态：";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "91K-Tq-a6Z"; */
+"91K-Tq-a6Z.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "FYn-RD-0M8"; */
+"FYn-RD-0M8.text" = "状态";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bYy-7P-aaj"; */
+"bYy-7P-aaj.text" = "Label";
+
+/* Class = "UILabel"; text = "用户名字"; ObjectID = "c0X-3J-xco"; */
+"c0X-3J-xco.text" = "用户名字";
+
+/* Class = "UITextField"; placeholder = "在此输入__用户名"; ObjectID = "kuk-yU-WDF"; */
+"kuk-yU-WDF.placeholder" = "在此输入__用户名";
+
+/* Class = "UILabel"; text = "用户名："; ObjectID = "mJ5-eO-Lq6"; */
+"mJ5-eO-Lq6.text" = "用户名：";
+
+/* Class = "UINavigationItem"; title = "主页"; ObjectID = "u1S-55-Hig"; */
+"u1S-55-Hig.title" = "主页";
+
+/* Class = "UITextField"; placeholder = "在此输入__用户密码"; ObjectID = "z4Q-TD-0rb"; */
+"z4Q-TD-0rb.placeholder" = "在此输入__用户密码";
